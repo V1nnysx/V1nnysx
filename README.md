@@ -2,7 +2,7 @@
 
 - 💼 Trabalhando em outra àrea no momento, mas me aperfeiçoando para viver a programação!
 
-- 📚 Estudando HTML5, CSS3, JavaScript e Bootstrap.
+- 📚 Estudando HTML5, CSS3, JavaScript e JAVA.
 
 <div>
   <a href="https://github.com/V1nnysx">
