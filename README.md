@@ -2,7 +2,7 @@
 
 - 💼 Trabalhando em outra àrea no momento, mas me aperfeiçoando para viver a programação!
 
-- 📚 Estudando HTML5, CSS3, JavaScript, ReactJS e Java.
+- 📚 Estudando JavaScript, MySQL e Java.
 
 <div>
   <a href="https://github.com/V1nnysx">
