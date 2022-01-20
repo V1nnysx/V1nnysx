@@ -2,7 +2,7 @@
 
 - 💼 Trabalhando em outra àrea no momento, mas me aperfeiçoando para viver a programação!
 
-- 📚 Estudando JavaScript, MySQL e Java.
+- 📚 Estudando Java. ☕
 
 <div>
   <a href="https://github.com/V1nnysx">
