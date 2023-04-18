@@ -2,7 +2,7 @@
 
 - 💼 Trabalhando em outra àrea no momento, mas me aperfeiçoando para viver a programação!
 
-- 📚 Estudando Java. ☕
+- 📚 Análise e Desenvolvimento de Sistemas na USJT.
 
 <div>
   <a href="https://github.com/V1nnysx">
