@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicius Cestari 😄
+### Olá! Me chamo Vinicius Cestari 😄
 
 - 💼 Trabalhando em outra àrea no momento, mas me aperfeiçoando para viver a programação!
 
