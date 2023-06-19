@@ -1,10 +1,8 @@
 ### Olá! Me chamo Vinicius Cestari. | *Hi there! I'm Vinicius Cestari.* 😄
 
-- 💼 Trabalhando em outra àrea no momento, mas me aperfeiçoando em tecnologia para o meu emprego dos sonhos. |
-     *Working in another area at this moment, but always learning technology for my dream job.*
+- 💼 Trabalhando em outra àrea no momento, mas me aperfeiçoando em tecnologia para o meu emprego dos sonhos. | *Working in another area at this moment, but always learning technology for my dream job.*
 
-- 📚 Análise e Desenvolvimento de Sistemas na USJT. |
-     *Analysis and Systems Development at Universidade São Judas Tadeu.*
+- 📚 Análise e Desenvolvimento de Sistemas na USJT. | *Analysis and Systems Development at Universidade São Judas Tadeu.*
 
 <div>
   <a href="https://github.com/V1nnysx">
