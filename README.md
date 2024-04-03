@@ -1,6 +1,6 @@
 ### Olá! Me chamo Vinicius Cestari. | *Hi there! I'm Vinicius Cestari.* 😄
 
-- 💼 Trabalhando na área de Cyber Security com foco em engenharia de software. | *Working in the field of Cyber Security with a focus on software engineering.*
+- 💼 Trabalhando na área de Cyber Security com foco em Engenharia de Software. | *Working in the field of Cyber Security with a focus on Software Engineering.*
 
 - 📚 Análise e Desenvolvimento de Sistemas na USJT. | *Analysis and Systems Development at Universidade São Judas Tadeu.*
 
